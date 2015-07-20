@@ -1,0 +1,8 @@
+D:\77211356\code\KMLToSHP\KMLToSHP\bin\Debug\KMLToSHP.exe
+D:\77211356\code\KMLToSHP\KMLToSHP\bin\Debug\KMLToSHP.pdb
+D:\77211356\code\KMLToSHP\KMLToSHP\obj\x86\Debug\KMLToSHP.csprojResolveAssemblyReference.cache
+D:\77211356\code\KMLToSHP\KMLToSHP\obj\x86\Debug\KMLToSHP.MainForm.resources
+D:\77211356\code\KMLToSHP\KMLToSHP\obj\x86\Debug\KMLToSHP.Properties.Resources.resources
+D:\77211356\code\KMLToSHP\KMLToSHP\obj\x86\Debug\KMLToSHP.csproj.GenerateResource.Cache
+D:\77211356\code\KMLToSHP\KMLToSHP\obj\x86\Debug\KMLToSHP.exe
+D:\77211356\code\KMLToSHP\KMLToSHP\obj\x86\Debug\KMLToSHP.pdb
